@@ -12,7 +12,7 @@ public class Main {
         task7();
         task8();
         System.out.println("End of HomeWork3");
-
+        System.out.println("Отсылаю");
 
     }
 
